@@ -1,4 +1,6 @@
 # ATM
+
+## Description:
 This project's goal is to make an automated teller
 machine with user's account details such username,
 password, and bank account, with that user are
@@ -13,3 +15,17 @@ account balance.
 // Simple but yet detailed interface
 
 // Any other inputs will be marked as wrong 
+
+## Requirements
+- Most updated java
+
+## Instructions:
+
+1. How to compile the java files:
+```
+javac -d out src/*.java
+```
+2. How to run:
+```
+java -cp out ATMApp
+```
